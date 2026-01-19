@@ -298,3 +298,4 @@ class DeviceType(StrEnum):
 
     VACUUM = "vacuum"
     MOWER = "mower"
+    WINDOW_CLEANER = "window_cleaner"
